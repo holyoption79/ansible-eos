@@ -14,20 +14,4 @@ This project is maintained by the `Arista Networks <http://arista.com/>`_ EOS+ C
              and their great flexibility, it is no longer recommended to use the arista.eos
              role.
 
-             Get started by checking out the `Arista solution <https://www.ansible.com/ansible-arista-networks>`_
-             at Ansible.com
-
-
-.. toctree::
-   :maxdepth: 2
-
-   overview
-   quickstart
-   install
-   _modules/modules_by_category
-   metaargs
-   support
-   development
-   faq
-   release-notes
-   license
+             Get started by checking out the `Arista solution <https://eos.arista.com/arista-ansible-getting-started>`_
