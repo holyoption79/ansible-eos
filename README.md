@@ -1,6 +1,6 @@
 # Ansible EOS Role
 
-[![Documentation Status](https://readthedocs.org/projects/ansible-eos/badge/?version=master)](https://readthedocs.org/projects/ansible-eos/?badge=master)
+[![Documentation Status](https://readthedocs.org/projects/ansible-eos/badge/?version=master)](https://readthedocs.org/projects/ansible-eos/?badge=latest)
 [![Build Status](https://travis-ci.org/arista-eosplus/ansible-eos.svg)](https://travis-ci.org/arista-eosplus/ansible-eos)
 
 ## Deprecation Notice
@@ -11,36 +11,7 @@ purpose-built for Arista EOS. Due to the easy-to-use nature of these modules,
 and their great flexibility, it is no longer recommended to use the arista.eos
 role.
 
-Get started by checking out the [Arista solution](https://www.ansible.com/ansible-arista-networks)
-at Ansible.com
-
-
-
-## Overview
-
-The Arista EOS role provides the foundation for working with Arista EOS nodes and Ansible.  The Arista EOS role for Ansible provides the ability to manage configuration resources in EOS.  The architecture of the roles makes inherent use of the Arista EOS command API using either a traditional Ansible SSH connection or by specifying connection: local and using eAPI to send and receive commands.  
-
-The Ansible EOS role is freely provided to the open source community for automating Arista EOS node configurations using Ansible.  Support for the modules is provided on a best effort basis by the Arista EOS+ community.  Please file any bugs, questions or enhancement requests using [Github Issues](http://github.com/arista-eosplus/ansible-eos/issues)
-
-[Read More about support] [support]
-
-### Requirements
-
-* Arista EOS 4.13.7M or later
-* EOS Command API enabled (see [Enabling EOS Command API] [eapi])
-* [Python Client for eAPI 0.3.0 or later] [pyeapi]
-* Linux shell account (optional) (see [Preparing EOS for Ansible] [sshaccess])
-
-## Documentation
-
-All documentation for the
-[Arista EOS](http://ansible-eos.readthedocs.org/en/master/index.html) role is
-hosted using readthedocs.org. Here are some helpful links within those docs:
-
-* [Quickstart] [quickstart]
-* [Installation] [install]
-* [Modules] [modules]
-
+Get started by checking out the latest [Arista solution](https://eos.arista.com/arista-ansible-getting-started).
 
 ## License
 
