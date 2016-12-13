@@ -14,4 +14,4 @@ This project is maintained by the `Arista Networks <http://arista.com/>`_ EOS+ C
              and their great flexibility, it is no longer recommended to use the arista.eos
              role.
 
-             Get started by checking out the `Arista solution <https://eos.arista.com/arista-ansible-getting-started>`_
+             Get started by checking out the latest `Arista solution <https://eos.arista.com/arista-ansible-getting-started>`_
